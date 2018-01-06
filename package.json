@@ -1,0 +1,23 @@
+{
+  "name": "smartpie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "dependencies": {
+    "uuid": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssemyonov/smartpie.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssemyonov/smartpie/issues"
+  },
+  "homepage": "https://github.com/ssemyonov/smartpie#readme"
+}
